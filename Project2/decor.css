@@ -1,0 +1,11 @@
+.test h1{
+    background-color: blueviolet;
+    color:cornsilk;
+    width:30px;
+    height:10px;
+    border-radius: 2px solid rgb(248, 241, 241);
+
+}
+.test p{
+    font-size: 10px; font-family: arial; margin:5px; padding:5px:
+}
